@@ -2,6 +2,10 @@
 
 Tudu is a task tracking API that allows users to create, manage, and complete tasks in task lists.
 
+Tudu was built using ChatGPT and GitHub Copilot.
+
+ChatGPT outlined the overall design and most of the core code, while Copilot filled in the gaps and helped with the details.
+
 ## Setup
 
 To run Tudu, you'll need to have the following software installed:
